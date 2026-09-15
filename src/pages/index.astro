@@ -5,33 +5,42 @@ import ContentLayout from "astro-theme-university/layouts/ContentLayout.astro";
 import heroImage from "../assets/images/hero-home.avif";
 import { courseMeta } from "../course-config";
 import { sessionLabels, siteConfig } from "../site-config";
-
-// STARTER_CONTENT: replace the hero artwork and its alt text below, then
-// remove this comment.
 ---
 
 <ContentLayout
   title={`${courseMeta.code}: ${courseMeta.title}`}
   description={courseMeta.description}
   heroImage={heroImage}
-  heroImageAlt="A lecture theatre reduced to flat gold and black shapes, rows of seats sweeping past the frame, in a two-ink risograph print"
+  heroImageAlt="A candlestick price chart and a rack of stacked coins, reduced to flat gold and black shapes on warm cream, in a two-ink risograph print"
   {...siteConfig}
 >
   <ul class="course-tags" aria-label="Course tags">
     {courseMeta.tags.map((tag) => <li>{tag}</li>)}
   </ul>
 
-  <!-- STARTER_CONTENT: replace the authored page below, then remove this comment. -->
   <h2>What you will do</h2>
   <p>
-    Say what a student spends their time on — the making, reading, arguing or
-    measuring that fills the weeks. Name the artefact they walk out with.
+    You'll spend the semester reading real, published data from player-run
+    virtual economies --- EVE Online's Monthly Economic Reports, World of
+    Warcraft's Auction House, Old School RuneScape's Grand Exchange --- and
+    learning the tools their designers use to keep those economies from
+    collapsing: faucet-and-sink accounting, cost-effectiveness ratios,
+    market microstructure, and mechanism design. You'll build spreadsheets
+    that model real ships, real prices, and real scandals, not toy numbers
+    invented for the exercise. You walk out with a portfolio of that
+    analysis and a capstone report proposing a scoped, numerically justified
+    fix to a real problem in a real economy.
   </p>
 
   <h2>Who it is for</h2>
   <p>
-    Say who this is aimed at and what they need to already know. Be specific
-    enough that someone can rule themselves in or out without emailing you.
+    Built for students who like systems more than they like any one game ---
+    you don't need to have played EVE Online, WoW, or RuneScape, but you do
+    need to be comfortable with a spreadsheet and unbothered by a ratio.
+    It suits computing and engineering students looking for a systems-design
+    elective with real numerical modelling in it, not a games-studies
+    seminar. If "market" and "mechanism" sound more interesting to you than
+    "lore," you're in the right place.
   </p>
 
   <h2>Where to go next</h2>
