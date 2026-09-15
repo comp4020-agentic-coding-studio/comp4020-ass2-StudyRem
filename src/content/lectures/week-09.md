@@ -29,7 +29,7 @@ Three games, three market designs, one underlying problem: get a seller's
 item to a buyer who wants it, at a price both would accept, without either
 of them meeting.
 
-| | EVE Online | World of Warcraft | Old School RuneScape |
+| Dimension | EVE Online | World of Warcraft | Old School RuneScape |
 |---|---|---|---|
 | matching | regional order books, per station | listing-based auction house | matched-order Grand Exchange |
 | primary sink | ship and module destruction | AH fees and deposits | GE tax (funds a scheduled item sink) |
