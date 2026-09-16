@@ -12,6 +12,9 @@ spec:
     market or social-engineering exploit, not just its outcome
   - argues, with reasons, whether a named exploit was a design failure or
     the system working as specified against an unanticipated strategy
+  - distinguishes an illicit, bot-driven faucet from manipulation of a
+    legitimate one, and explains why enforcement rather than a new sink is
+    the fix for the former
 related:
   - assessments/scandal-case-study-essay
 links:
@@ -47,6 +50,37 @@ thinly-traded item, relist high, profit from anyone who needs it before
 supply recovers. Section 3's Grand Exchange price band exists specifically
 because this pattern is common and mechanically simple to pull off without
 a year of social engineering.
+
+## Illicit faucets: a different kind of exploit
+
+Everything above is manipulation of an already-legitimate faucet or a
+market's own rules. A quieter, separate category is an illicit faucet:
+currency injected by bots grinding missions or farming resources around the
+clock, which is functionally a faucet Week 2's design vocabulary never
+accounted for and can't tune the normal way. CCP has kept a full-time
+in-house economist for over a decade partly because of exactly this --- an
+illicit faucet doesn't announce itself as "manipulation" in a transaction
+log, it shows up as inflation with no matching legitimate source, and the
+only real fix is enforcement (finding and banning the bots), not a wider
+sink. Keep it distinct from everything else this week covers: manipulation
+abuses rules that are meant to exist; an illicit faucet operates outside
+whatever the designers thought they were tracking at all.
+
+## A second incident: manipulation that funded a war
+
+Not every scandal stays contained to a market. In 2016, a coalition that
+came to be known as the MoneyBadger Coalition fought a war against the
+long-standing Imperium alliance over a contested null-sec system --- a war
+reported to have been partly funded by proceeds from banned, unlicensed
+in-game gambling operations shut down earlier that year. If accurate,
+that's a market-integrity violation directly bankrolling a military
+campaign, which puts a different shape on "was this the system working as
+specified" than GHSC's heist: GHSC exploited permissions the game meant to
+grant; the gambling operations were never meant to exist at all, and the
+proceeds from shutting them down still ended up funding the next thing that
+happened anyway. Treat the funding claim as reported rather than settled if
+you use this incident for the essay --- check a primary source before
+citing it as established fact.
 
 ## Before the assessment
 
