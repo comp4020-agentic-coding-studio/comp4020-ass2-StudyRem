@@ -46,7 +46,8 @@ buy up the visible supply, then relist it at ten times the price to anyone
 desperate enough. The band doesn't eliminate manipulation, it just raises the
 capital required to move the price meaningfully, which is the same tool a
 real securities exchange's circuit breaker is doing, aimed at a different
-failure mode.
+failure mode. There's a general theory for why a rule like this is the
+"correct" fix rather than just a plausible one --- Week 11 names it properly.
 
 ## Studio this week
 

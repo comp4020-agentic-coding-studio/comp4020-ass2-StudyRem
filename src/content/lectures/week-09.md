@@ -50,7 +50,9 @@ literally choosing market size as a lever --- a bigger, unified market is more
 liquid and harder to corner, at the cost of realm-level identity.
 
 None of these are "the right answer". Each is the right answer to what that
-game's other systems already demand of it.
+game's other systems already demand of it. Week 11 gives this idea --- that
+a market's rules can be judged against a formal standard, not just
+preference --- a proper name and a worked argument for why it holds.
 
 ## Studio this week
 
