@@ -37,15 +37,28 @@ currency sink, not an accident of combat.
 
 ## The lecture's throughline
 
-Three moments where the published data changed the game, not just the
-players' opinion of it:
+Two moments where the published data documents a deliberate design
+intervention, not just a passing trend:
 
-- a sustained ISK-faucet imbalance traced to mission-running bots, addressed
-  by nerfing the payout curve rather than banning the behaviour outright
-- a mineral price crash that followed a mining-mechanics change, visible in
-  the very next month's report
-- null-sec sovereignty changes that show up as a measurable shift in where
-  destruction value concentrates on the regional map
+- **the 2020 resource-redistribution rework**, which redrew which
+  security band of space produces which raw materials so that no single
+  band --- highsec, lowsec, or nullsec --- is self-sufficient on its own.
+  The MER's regional production breakdowns are how CCP checks whether that
+  forced interdependence is actually holding, rather than one region quietly
+  re-achieving self-sufficiency through internal trade alone.
+- **the 2017 Lifeblood expansion's moon-mining rework**, which replaced a
+  passive, low-effort form of moon harvesting with an actively-scheduled
+  extraction system that opens a defendable vulnerability window --- turning
+  a resource that used to sit quietly under one alliance's flag into a
+  target the MER's destruction-value and regional-activity figures show
+  being actively fought over.
+
+Exact ore-to-security-band assignments have shifted more than once since
+2020 (most recently around the 2024 Equinox and 2025 mining reworks). What
+this course asks you to read from the MER is the pattern --- CCP
+deliberately denying any one region full self-sufficiency --- not a
+specific patch's current table; check CCP's own patch notes before citing a
+precise assignment in an assessment.
 
 ## Before the assessment
 
