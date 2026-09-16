@@ -12,6 +12,8 @@ spec:
     supply chain, with a specific mechanism that imposes that risk
   - identifies at least one way a game deliberately makes frontier resources
     more valuable than safe ones, beyond "there's more of it there"
+  - explains why a named material's in-game location is a deliberate
+    scarcity lever rather than an incidental map detail
 related:
   - sessions/07-trade-route-planning-workshop
 ---
@@ -29,6 +31,33 @@ supply chain through space patrolled by player alliances who'd rather you
 didn't. Every convoy is a risk calculation: bigger haul, bigger loss if it's
 caught, and the price at the safe-space market has to be high enough to make
 that risk worth taking in aggregate, across everyone who tries.
+
+## Why the materials are there at all
+
+"Null-sec has valuable materials" is a fact the game ships with; it's also a
+lever the designers pulled on purpose. EVE's moon-mined ore compounds sit on
+a rarity ladder --- R4 through R64 --- where each tier roughly doubles in
+scarcity over the last, and the rarer tiers are further locked to specific
+regions or NPC-faction space rather than spread evenly across every null-sec
+system. That means an alliance holding a large, materially rich stretch of
+null-sec still can't produce top-tier components alone: it has to trade
+with, or fight, whoever holds the one region carrying the tier it's missing.
+The scarcity isn't an accident of the map. It's the mechanism that turns
+null-sec resource control into a multi-alliance problem instead of a single
+empire's private supply closet.
+
+## The production chain is a designed system too
+
+This week's framing stops at "get the ore to market," but the ore is only
+the first step of a longer chain: mining, then refining it into usable
+minerals, then manufacturing it into a finished ship or module, often
+against a blueprint that itself consumes materials and time to research.
+Each step is another place a designer can put a sink --- refining loses a
+percentage of the raw input, a manufacturing run consumes materials whether
+or not the output sells --- or another scarcity lever, since not every
+blueprint is worth researching to the efficiency that makes it profitable
+at scale. Frontier logistics gets the ore to a market; this longer,
+upstream chain is why that ore was worth transporting in the first place.
 
 ## Why this differs from a real-world supply chain
 
