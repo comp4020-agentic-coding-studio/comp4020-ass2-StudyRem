@@ -53,6 +53,16 @@ Monthly-Economic-Report-style breakdown, and add or widen a sink when that
 ratio drifts. This is duller than it sounds, and it is most of the actual
 job.
 
+This is also where intuition about "the" faucet goes wrong. It's tempting to
+assume a game's cash-shop currency exchange --- EVE's PLEX, which converts
+real money into tradeable in-game value --- is the dominant source of new
+ISK, since it's the one with a price tag attached. Independent analysis of
+EVE's January 2026 Monthly Economic Report found the opposite: raw ISK
+faucets (missions, bounties, and the like) added roughly 203.6 trillion ISK
+that month, against about 28.7 trillion ISK moving through PLEX --- PLEX
+accounted for only around a seventh of new inflow. The unglamorous faucets a
+designer never has to advertise are usually doing most of the work.
+
 ## Before Week 3
 
 Bring one faucet and one sink from a game you actually play, described
