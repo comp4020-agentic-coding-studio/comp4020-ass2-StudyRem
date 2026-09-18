@@ -37,21 +37,27 @@ currency sink, not an accident of combat.
 
 ## The lecture's throughline
 
-Two moments where the published data documents a deliberate design
-intervention, not just a passing trend:
+Two moments where a trend visible in the published data came first, and a
+deliberate design intervention followed it:
 
-- **the 2020 resource-redistribution rework**, which redrew which
-  security band of space produces which raw materials so that no single
-  band --- highsec, lowsec, or nullsec --- is self-sufficient on its own.
-  The MER's regional production breakdowns are how CCP checks whether that
-  forced interdependence is actually holding, rather than one region quietly
-  re-achieving self-sufficiency through internal trade alone.
-- **the 2017 Lifeblood expansion's moon-mining rework**, which replaced a
-  passive, low-effort form of moon harvesting with an actively-scheduled
-  extraction system that opens a defendable vulnerability window --- turning
-  a resource that used to sit quietly under one alliance's flag into a
-  target the MER's destruction-value and regional-activity figures show
-  being actively fought over.
+- **the 2020 resource-redistribution rework**. Years of regional
+  production breakdowns had shown highsec quietly creeping toward
+  self-sufficiency in materials that were supposed to require trade with
+  lowsec and nullsec --- exactly the flattening-out a healthy
+  interdependent economy shouldn't show. CCP's response was to redraw
+  which security band produces which raw material, specifically so that
+  no single band could re-achieve that self-sufficiency through internal
+  trade alone.
+- **the 2017 Lifeblood expansion's moon-mining rework**. The MER's
+  regional-activity figures had shown moon harvesting as unusually flat
+  and low-conflict for a nullsec resource --- a passive income stream one
+  alliance could hold quietly for years with no real contest, unlike
+  every other resource on the destruction-value side of the report.
+  Lifeblood replaced that passive system with an actively-scheduled
+  extraction window that has to be defended, and the subsequent MER
+  reports show exactly what the rework intended: destruction-value and
+  regional-activity figures for moon systems that are now genuinely
+  fought over.
 
 Exact ore-to-security-band assignments have shifted more than once since
 2020 (most recently around the 2024 Equinox and 2025 mining reworks). What
