@@ -22,6 +22,10 @@ links:
     url: https://www.guinnessworldrecords.com/world-records/88183-most-hostile-corporate-takeover-in-eve-online
   - label: "Murder Incorporated: ten months of deception for one kill in EVE Online — PC Gamer"
     url: https://www.pcgamer.com/murder-incorporated-ten-months-of-deception-for-one-kill-in-eve-online/
+  - label: "How a failed Kickstarter sparked one of the biggest battles in EVE Online history — PC Gamer"
+    url: https://www.pcgamer.com/how-a-failed-kickstarter-sparked-eve-onlines-second-largest-battle-ever/
+  - label: "EVE Online Bans Gambling Sites — The Nosy Gamer"
+    url: https://nosygamer.blogspot.com/2016/10/eve-online-bans-gambling-sites.html
 ---
 
 In April 2005, a mercenary corporation called the Guiding Hand Social Club
@@ -68,19 +72,23 @@ whatever the designers thought they were tracking at all.
 
 ## A second incident: manipulation that funded a war
 
-Not every scandal stays contained to a market. In 2016, a coalition that
-came to be known as the MoneyBadger Coalition fought a war against the
-long-standing Imperium alliance over a contested null-sec system --- a war
-reported to have been partly funded by proceeds from banned, unlicensed
-in-game gambling operations shut down earlier that year. If accurate,
-that's a market-integrity violation directly bankrolling a military
-campaign, which puts a different shape on "was this the system working as
-specified" than GHSC's heist: GHSC exploited permissions the game meant to
-grant; the gambling operations were never meant to exist at all, and the
-proceeds from shutting them down still ended up funding the next thing that
-happened anyway. Treat the funding claim as reported rather than settled if
-you use this incident for the essay --- check a primary source before
-citing it as established fact.
+Not every scandal stays contained to a market. In early 2016, a loose
+coalition that came to be known as the MoneyBadger Coalition fought a war
+against the long-standing Imperium alliance for control of null-sec
+territory --- a war substantially bankrolled by an unlicensed in-game
+gambling site, IWantISK, which paid mercenary alliances directly in ISK to
+attack Imperium space. The arrangement didn't last: CCP banned ISK
+gambling outright later that same year, and losing that funding is widely
+credited as a large part of why the war wound down when it did. That's a
+market-integrity violation directly bankrolling, and then ending, a
+military campaign --- a different shape of "was this the system working as
+specified" than GHSC's heist. GHSC exploited permissions the game meant to
+grant; IWantISK exploited a gap the EULA had never closed, and CCP's
+eventual response was the same fix this week's illicit-faucet section
+argues for: not a wider sink, but shutting the operation down outright.
+Retrospectives differ on exactly how much of the war's funding traces to
+IWantISK specifically, so treat that proportion as reported rather than
+settled if you use this incident for the essay.
 
 ## Before the assessment
 
