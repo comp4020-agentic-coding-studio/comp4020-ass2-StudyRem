@@ -37,11 +37,13 @@ that risk worth taking in aggregate, across everyone who tries.
 "Null-sec has valuable materials" is a fact the game ships with; it's also a
 lever the designers pulled on purpose. EVE's moon-mined ore compounds sit on
 a rarity ladder --- R4 through R64 --- where each tier roughly doubles in
-scarcity over the last, and the rarer tiers are further locked to specific
-regions or NPC-faction space rather than spread evenly across every null-sec
-system. That means an alliance holding a large, materially rich stretch of
-null-sec still can't produce top-tier components alone: it has to trade
-with, or fight, whoever holds the one region carrying the tier it's missing.
+scarcity over the last, and the rarer tiers cluster unevenly across
+null-sec: statistically concentrated in particular regions rather than
+spread evenly system-by-system, with no hard per-region rule guaranteeing
+any of them. That means an alliance holding a large, materially rich
+stretch of null-sec still can't reliably produce top-tier components alone:
+it has to trade with, or fight, whoever's territory happens to carry the
+tier it's missing.
 The scarcity isn't an accident of the map. It's the mechanism that turns
 null-sec resource control into a multi-alliance problem instead of a single
 empire's private supply closet.
