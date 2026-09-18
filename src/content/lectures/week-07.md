@@ -16,6 +16,9 @@ spec:
     scarcity lever rather than an incidental map detail
 related:
   - sessions/07-trade-route-planning-workshop
+links:
+  - label: "Moon mining — EVE University Wiki"
+    url: https://wiki.eveuniversity.org/Moon_mining
 ---
 
 Distance alone doesn't make a resource valuable --- risk does. A game that
