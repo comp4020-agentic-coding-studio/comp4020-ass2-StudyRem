@@ -48,8 +48,9 @@ out.
   ammunition and module losses in combat or OSRS's food and potions burned
   on a single boss trip
 - **market taxes**: a cut taken on every trade, which is also a sink that
-  scales with how active the economy is --- OSRS's Grand Exchange tax takes
-  a flat percentage off nearly every sale
+  scales with how active the economy is --- OSRS's [Grand
+  Exchange](/glossary/#grand-exchange) tax takes a flat percentage off
+  nearly every sale
 - **vanity and prestige**: cosmetics priced deliberately high, because the
   point is that most players *can't* afford them --- WoW sells gold-cost
   mounts and toys priced in the hundreds of thousands of gold for exactly
@@ -67,19 +68,19 @@ out.
 ## A second set, so the taxonomy above isn't the only evidence
 
 Three more faucets and three more sinks, none of them restating the
-categories above: EVE Online's incursion system pays out ISK from a
+categories above: EVE Online's incursion system pays out [ISK](/glossary/#isk) from a
 shared bounty pool triggered by killing NPC fleet waves, a faucet
 mechanic distinct from a personal mission's bounty; Old School
 RuneScape's Thieving skill lets a trained character pickpocket coins
 directly from NPCs, a faucet gated by skill level rather than combat;
 and World of Warcraft's looted trash items, sold individually to any
 vendor after a dungeon run, inject gold with no quest or bounty
-structure at all. On the sink side: World of Warcraft's Auction House
-charges a deposit that's forfeited if the listed item doesn't sell,
+structure at all. On the sink side: World of Warcraft's [Auction
+House](/glossary/#auction-house) charges a deposit that's forfeited if the listed item doesn't sell,
 a different sink shape from a flat sales tax; character death outside
 a safe zone in Old School RuneScape can destroy or drop items the
 player then has to re-buy, a sink triggered by risk rather than a
-transaction; and EVE Online's null-sec alliances pay recurring ISK
+transaction; and EVE Online's [null-sec](/glossary/#null-sec) [alliances](/glossary/#alliance) pay recurring ISK
 upkeep just to hold sovereignty over a system, a sink with no
 player-facing reward attached to it at all.
 

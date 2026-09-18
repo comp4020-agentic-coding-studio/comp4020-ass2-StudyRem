@@ -28,10 +28,10 @@ links:
     url: https://nosygamer.blogspot.com/2016/10/eve-online-bans-gambling-sites.html
 ---
 
-In April 2005, a mercenary corporation called the Guiding Hand Social Club
+In April 2005, a mercenary [corporation](/glossary/#corporation) called the Guiding Hand Social Club
 spent close to a year infiltrating a rival corporation, Ubiqua Seraph, before
 assassinating its CEO and walking away with assets worth an estimated tens of
-billions of ISK --- reported at the time as somewhere north of $16,000 in
+billions of [ISK](/glossary/#isk) --- reported at the time as somewhere north of $16,000 in
 real-world terms. Nothing about the operation broke a rule. Every step ---
 earning trust, gaining hangar access, timing the kill --- used mechanics the
 game provided to every player. It is still one of the most cited examples in
@@ -41,7 +41,7 @@ this course's field precisely because it is *not* a bug report.
 
 The interesting design question isn't whether GHSC should have been banned
 (they weren't), it's what the incident reveals about the systems that made it
-possible: unrestricted corporation hangar permissions, no cooldown on
+possible: unrestricted corporation [hangar](/glossary/#hangar) permissions, no cooldown on
 promoting a trusted member to full access, and no in-game signal that would
 have let Ubiqua Seraph notice the setup before it was too late. Every one of
 those is a design decision, not a law of physics, and every one is still a
@@ -51,7 +51,7 @@ live design choice in games built after 2005.
 
 Most manipulation is far less cinematic: buy out the visible supply of a
 thinly-traded item, relist high, profit from anyone who needs it before
-supply recovers. Section 3's Grand Exchange price band exists specifically
+supply recovers. Section 3's [Grand Exchange](/glossary/#grand-exchange) price band exists specifically
 because this pattern is common and mechanically simple to pull off without
 a year of social engineering.
 
@@ -59,7 +59,7 @@ a year of social engineering.
 
 Everything above is manipulation of an already-legitimate faucet or a
 market's own rules. A quieter, separate category is an illicit faucet:
-currency injected by bots grinding missions or farming resources around the
+currency injected by [bots](/glossary/#bot) grinding missions or farming resources around the
 clock, which is functionally a faucet Week 2's design vocabulary never
 accounted for and can't tune the normal way. CCP has kept a full-time
 in-house economist for over a decade partly because of exactly this --- an
@@ -74,7 +74,7 @@ whatever the designers thought they were tracking at all.
 
 Not every scandal stays contained to a market. In early 2016, a loose
 coalition that came to be known as the MoneyBadger Coalition fought a war
-against the long-standing Imperium alliance for control of null-sec
+against the long-standing Imperium [alliance](/glossary/#alliance) for control of [null-sec](/glossary/#null-sec)
 territory --- a war substantially bankrolled by an unlicensed in-game
 gambling site, IWantISK, which paid mercenary alliances directly in ISK to
 attack Imperium space. The arrangement didn't last: CCP banned ISK

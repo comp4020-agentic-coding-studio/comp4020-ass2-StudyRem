@@ -29,12 +29,12 @@ on in-progress interventions, worked through out loud, so everyone can see
 what a marker is actually going to look for. Two examples of the shape a
 strong one takes:
 
-**EVE Online, a null-sec resource monopoly that actually happened (Week 7's
+**EVE Online, a [null-sec](/glossary/#null-sec) resource monopoly that actually happened (Week 7's
 frontier logistics).** For years, the moon material Technetium --- a key
-Tech II production input --- was concentrated almost entirely in EVE
-Online's northern null-sec regions, letting the alliances holding that
+[Tech II](/glossary/#tech-ii) production input --- was concentrated almost entirely in EVE
+Online's northern null-sec regions, letting the [alliances](/glossary/#alliance) holding that
 territory control a Tech II production chokepoint worth hundreds of
-billions of ISK a month simply by sitting on it. CCP's own dev blog named
+billions of [ISK](/glossary/#isk) a month simply by sitting on it. CCP's own dev blog named
 the problem directly: value and region had become too tightly coupled. The
 fix, delivered in the 2013 Odyssey resource rebalance, wasn't to break the
 monopoly by force --- it was to spread value across all four of the rarest
@@ -46,7 +46,7 @@ to move around, in exchange for a scarcity ladder that finally matched
 Week 7's "no single alliance can go it alone" design intent instead of
 quietly undermining it.
 
-**World of Warcraft and OSRS, bot-driven illicit faucets (Week 8).**
+**World of Warcraft and OSRS, [bot](/glossary/#bot)-driven illicit faucets (Week 8).**
 Automated farming injects currency that never came from a legitimate
 faucet at all --- Week 8's distinction between an illicit, bot-driven
 faucet and manipulation of an already-legitimate one. It's easy for a

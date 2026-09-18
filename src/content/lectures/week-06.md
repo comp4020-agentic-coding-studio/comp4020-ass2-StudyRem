@@ -53,7 +53,7 @@ internally, even when the marketing copy calls it convenience.
 
 ## Where this bites the numbers from Week 5
 
-A DPS-per-ISK ratio assumes ISK is the only scarce resource in the
+A [DPS](/glossary/#dps)-per-ISK ratio assumes [ISK](/glossary/#isk) is the only scarce resource in the
 comparison. Add a skill-gate with a real training time, and the honest
 comparison is DPS-per-ISK-and-per-hour --- which is why "the meta build" so
 often turns out to be whatever a time-rich player can reach, not whatever a

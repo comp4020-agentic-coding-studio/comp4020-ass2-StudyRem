@@ -33,13 +33,13 @@ which one "feels" stronger.
 ## A worked example
 
 Take two illustrative fits priced in the same currency (numbers invented
-for this example, not a published stat): Fit A costs 10 million ISK and
-does 400 effective DPS --- 40 DPS per million. Fit B costs 15 million ISK
+for this example, not a published stat): Fit A costs 10 million [ISK](/glossary/#isk) and
+does 400 effective [DPS](/glossary/#dps) --- 40 DPS per million. Fit B costs 15 million ISK
 and does 750 effective DPS --- 50 DPS per million. Fit B wins the ratio by
 a wide margin, and if raw offensive output per ISK spent is the whole
 question, Fit B is the recommendation.
 
-But run the same two fits through EHP-per-ISK and the story flips: Fit A
+But run the same two fits through [EHP](/glossary/#ehp)-per-ISK and the story flips: Fit A
 has 8,000 effective hit points (800 EHP/million), while Fit B, built light
 to hit that DPS number, only has 6,000 (400 EHP/million). Neither ratio is
 "the" answer --- the recommendation depends on which one the situation

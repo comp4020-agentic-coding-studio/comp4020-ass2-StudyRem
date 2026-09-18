@@ -31,10 +31,10 @@ of them meeting.
 
 | Dimension | EVE Online | World of Warcraft | Old School RuneScape |
 |---|---|---|---|
-| matching | regional order books, per station | listing-based auction house | matched-order Grand Exchange |
+| matching | regional order books, per station | listing-based [auction house](/glossary/#auction-house) | matched-order [Grand Exchange](/glossary/#grand-exchange) |
 | primary sink | ship and module destruction | AH fees and deposits | GE tax (funds a scheduled item sink) |
 | price transparency | full order-book visibility | listings only, no history | lagging "guide price", no live book |
-| dominant manipulation risk | market cornering in thin regional markets | undercut-bot warfare | manipulation within the enforced price band |
+| dominant manipulation risk | market cornering in thin regional markets | undercut-[bot](/glossary/#bot) warfare | manipulation within the enforced price band |
 
 ## What the differences actually mean
 

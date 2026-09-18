@@ -22,7 +22,7 @@ links:
 
 EVE Online is the closest thing this course has to a controlled experiment
 running for over two decades: one server, one currency, one economy, and a
-developer that has published a Monthly Economic Report --- ISK faucets and
+developer that has published a Monthly Economic Report --- [ISK](/glossary/#isk) faucets and
 sinks, mineral price indices, production and destruction values, regional
 market activity --- for years. No other virtual economy this course touches
 has anything close to that public a record.
@@ -43,15 +43,15 @@ deliberate design intervention followed it:
 - **the 2020 resource-redistribution rework**. Years of regional
   production breakdowns had shown highsec quietly creeping toward
   self-sufficiency in materials that were supposed to require trade with
-  lowsec and nullsec --- exactly the flattening-out a healthy
+  lowsec and [nullsec](/glossary/#null-sec) --- exactly the flattening-out a healthy
   interdependent economy shouldn't show. CCP's response was to redraw
   which security band produces which raw material, specifically so that
   no single band could re-achieve that self-sufficiency through internal
   trade alone.
-- **the 2017 Lifeblood expansion's moon-mining rework**. The MER's
+- **the 2017 Lifeblood expansion's [moon-mining](/glossary/#moon-mining) rework**. The MER's
   regional-activity figures had shown moon harvesting as unusually flat
   and low-conflict for a nullsec resource --- a passive income stream one
-  alliance could hold quietly for years with no real contest, unlike
+  [alliance](/glossary/#alliance) could hold quietly for years with no real contest, unlike
   every other resource on the destruction-value side of the report.
   Lifeblood replaced that passive system with an actively-scheduled
   extraction window that has to be defended, and the subsequent MER

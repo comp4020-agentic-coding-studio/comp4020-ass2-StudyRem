@@ -46,7 +46,7 @@ asymmetry.
 
 ## A concrete adoption
 
-Old School RuneScape's Grand Exchange only runs one clearing rule --- an
+Old School RuneScape's [Grand Exchange](/glossary/#grand-exchange) only runs one clearing rule --- an
 open, continuous order book --- for every trade regardless of size. It
 could instead route only its largest, one-off trades (a rare item worth
 hundreds of millions of gold, say) through a sealed-bid, second-price

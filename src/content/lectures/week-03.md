@@ -25,14 +25,14 @@ different choices here.
 
 ## Two shapes of market
 
-**Matched-order books** (RuneScape's Grand Exchange): players post buy and
+**Matched-order books** (RuneScape's [Grand Exchange](/glossary/#grand-exchange)): players post buy and
 sell offers into a shared queue, and the system matches them automatically at
 a clearing price. Nobody meets anybody. The published "guide price" is a
 lagging average of recent trades, not a live order-book snapshot --- which
 means the number on screen and the number you'll actually pay can quietly
 diverge, especially for anything traded rarely.
 
-**Listing markets** (a WoW-style auction house): sellers post a fixed asking
+**Listing markets** (a WoW-style [auction house](/glossary/#auction-house)): sellers post a fixed asking
 price, buyers browse and buy at that price or don't. There's no matching
 engine deciding a clearing price --- the "market price" is just whatever the
 crowd of current listings happens to say, which makes it easier to manipulate

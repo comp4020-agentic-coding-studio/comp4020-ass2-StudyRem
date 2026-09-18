@@ -37,16 +37,16 @@ that risk worth taking in aggregate, across everyone who tries.
 
 ## Why the materials are there at all
 
-"Null-sec has valuable materials" is a fact the game ships with; it's also a
-lever the designers pulled on purpose. EVE's moon-mined ore compounds sit on
-a rarity ladder --- R4 through R64 --- where each tier roughly doubles in
+"[Null-sec](/glossary/#null-sec) has valuable materials" is a fact the game ships with; it's also a
+lever the designers pulled on purpose. EVE's [moon-mined](/glossary/#moon-mining) ore compounds sit on
+a rarity ladder --- [R4 through R64](/glossary/#ore-rarity-tiers) --- where each tier roughly doubles in
 scarcity over the last, and the rarer tiers cluster unevenly across
 null-sec: statistically concentrated in particular regions rather than
 spread evenly system-by-system, with no hard per-region rule guaranteeing
-any of them. Xenotime, the ore that refines into the R64-tier material
-Dysprosium, is one of the rarest of those moon materials and one of the
-inputs Tech II capital construction can't substitute away from --- its
-scattered, statistically-uneven placement is why a single alliance
+any of them. [Xenotime](/glossary/#xenotime), the ore that refines into the R64-tier material
+[Dysprosium](/glossary/#dysprosium), is one of the rarest of those moon materials and one of the
+inputs [Tech II](/glossary/#tech-ii) capital construction can't substitute away from --- its
+scattered, statistically-uneven placement is why a single [alliance](/glossary/#alliance)
 controlling a large stretch of null-sec still can't reliably produce
 top-tier components alone: it has to trade with, or fight, whoever's
 territory happens to carry the Xenotime moons it's missing.
@@ -59,7 +59,7 @@ empire's private supply closet.
 This week's framing stops at "get the ore to market," but the ore is only
 the first step of a longer chain: mining, then refining it into usable
 minerals, then manufacturing it into a finished ship or module, often
-against a blueprint that itself consumes materials and time to research.
+against a [blueprint](/glossary/#blueprint) that itself consumes materials and time to research.
 Each step is another place a designer can put a sink --- refining loses a
 percentage of the raw input, a manufacturing run consumes materials whether
 or not the output sells --- or another scarcity lever, since not every
