@@ -23,7 +23,7 @@ the map and the risk data are provided.
 ## In the session
 
 Working from a simplified risk/reward map (loosely modelled on a
-null-sec-style frontier), plan a cargo run: what to carry, which route to
+[null-sec](/glossary/#null-sec)-style frontier), plan a cargo run: what to carry, which route to
 take, and how much risk that route actually represents. Then work out what
 an insurance market would charge to cover that run, and compare it against
 the cargo's expected profit.

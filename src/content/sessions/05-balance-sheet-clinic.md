@@ -18,7 +18,7 @@ related:
 
 ## Before the session
 
-Read Week 5's lecture on DPS-per-currency and EHP-per-currency ratios. No
+Read Week 5's lecture on [DPS](/glossary/#dps)-per-currency and [EHP](/glossary/#ehp)-per-currency ratios. No
 preparation beyond that --- the data arrives in the session.
 
 ## In the session
