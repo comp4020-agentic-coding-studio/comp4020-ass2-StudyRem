@@ -26,3 +26,7 @@ mise.local.toml
 # your course API key, and this repo goes public when you ship. Your tracked
 # harness is CLAUDE.md (and any AGENTS.md), not this directory.
 .claude/
+
+# scratch process notes: raw material for PROCESS.md, not meant to be read
+# as part of the shipped repo
+*.local.md

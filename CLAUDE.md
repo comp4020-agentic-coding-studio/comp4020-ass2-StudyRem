@@ -39,3 +39,12 @@ what the agent needs to carry from either is your call.
   model --- write out a detailed implementation plan and get my sign-off
   before writing code. Small, mechanical, or single-file edits don't need
   this; use judgement on where the line is.
+- **Audits go to a clean subagent, not the main thread.** When I ask you to
+  audit something (content, a claim, prior work), don't do it yourself in
+  this same conversation --- spin up a fresh subagent with no prior context
+  and have it review from a client's or audience's position, not an
+  author's. Asking the agent that already produced or discussed the content
+  to also audit it is insufficient: it's anchored by its own context and
+  tends to see what it meant rather than what's actually on the page. A
+  subagent with no stake in the content and no memory of writing it reads it
+  the way a real reader would.
