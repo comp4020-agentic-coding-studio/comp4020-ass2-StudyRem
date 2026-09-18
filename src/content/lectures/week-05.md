@@ -30,10 +30,31 @@ which one "feels" stronger.
   survivability, where "effective" already folds in resistances and
   active mitigation, not just a raw health number
 
+## A worked example
+
+Take two illustrative fits priced in the same currency (numbers invented
+for this example, not a published stat): Fit A costs 10 million ISK and
+does 400 effective DPS --- 40 DPS per million. Fit B costs 15 million ISK
+and does 750 effective DPS --- 50 DPS per million. Fit B wins the ratio by
+a wide margin, and if raw offensive output per ISK spent is the whole
+question, Fit B is the recommendation.
+
+But run the same two fits through EHP-per-ISK and the story flips: Fit A
+has 8,000 effective hit points (800 EHP/million), while Fit B, built light
+to hit that DPS number, only has 6,000 (400 EHP/million). Neither ratio is
+"the" answer --- the recommendation depends on which one the situation
+actually calls for, which is the entire point of building both numbers
+instead of picking one.
+
 Neither number is the whole story on its own. A cheap, disposable fit with a
 mediocre EHP-per-ISK ratio can still be the correct choice if losing it
 doesn't hurt --- which is its own economic argument, just phrased as risk
-tolerance rather than a ratio.
+tolerance rather than a ratio. The reverse trap is just as real: Fit B's
+DPS/ISK ratio is the best number on the sheet, but if the fight is slow and
+attritional rather than a burst trade, its lower EHP means it dies before
+that DPS advantage has time to matter. The numerically better option loses
+because the ratio it wins on isn't the one the engagement is actually
+testing.
 
 ## Why this is a balance problem, not just a spreadsheet problem
 
