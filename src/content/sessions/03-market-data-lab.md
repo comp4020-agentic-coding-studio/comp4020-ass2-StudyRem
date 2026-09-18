@@ -34,6 +34,9 @@ in pairs to find where the two numbers disagree, and by how much.
 
 ## Afterwards
 
-The divergence-finding skill from this session is exactly what the Market
-Data Report (due Week 4) asks you to repeat against a report you haven't
-seen yet.
+The close-reading habit this session builds --- sitting with real trade data
+long enough to find where two numbers should agree and don't --- is the
+same habit the Market Data Report (due Week 4) needs, even though that
+report is looking for a faucet/sink imbalance (Week 2's vocabulary) rather
+than this session's price/guide-price divergence. The two mismatches aren't
+the same thing; the discipline of hunting for one is.

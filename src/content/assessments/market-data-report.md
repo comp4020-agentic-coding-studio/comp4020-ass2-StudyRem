@@ -24,6 +24,7 @@ spec:
   - is legible to a reader who has not seen the source data themselves
 related:
   - sessions/03-market-data-lab
+  - lectures/week-02
 ---
 
 ## The brief
@@ -34,10 +35,13 @@ related:
 You'll work from a real, publicly published data source on a virtual
 economy --- most likely EVE Online's Monthly Economic Reports, which is
 what Week 4's lecture and deck cover in depth, though you may substitute
-another published source with the convenor's agreement. Market Data Lab
-(Week 3) gave you practice finding where a traded price and a listed price
-diverge; this report asks you to do the larger version of that skill
-against a real report you haven't been walked through in class.
+another published source with the convenor's agreement. The vocabulary
+this report actually asks you to apply --- faucets, sinks, and where they're
+out of balance --- is Week 2's, not Week 3's: Market Data Lab gave you
+practice spotting a *different* kind of mismatch (a traded price diverging
+from its listed guide price), a related but distinct skill worth keeping
+separate in your head from the faucet/sink imbalance this report is
+actually marked on.
 
 A strong report doesn't just describe the data --- it identifies the
 mechanisms producing it. Two numbers moving together is an observation.
