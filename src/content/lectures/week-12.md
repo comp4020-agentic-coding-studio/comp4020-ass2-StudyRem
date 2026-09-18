@@ -34,13 +34,16 @@ the cost of making an already logistics-heavy game even more dependent on
 long supply lines its designers already worried were tedious.
 
 **World of Warcraft and OSRS, bot-driven illicit faucets (Week 8).**
-Automated farming injects currency the legitimate faucet-tuning in Week 2
-never accounted for, quietly inflating the economy in a way that a
-Monthly-Economic-Report-style faucet/sink audit won't catch unless bot
-volume is broken out as its own line. A worked intervention: report bot-
-suspected currency separately from human-sourced faucets in that audit, at
-the cost of the false positives (legitimately fast human players) that any
-automated bot-detection heuristic will inevitably flag.
+Automated farming injects currency that never came from a legitimate
+faucet at all --- Week 8's distinction between an illicit, bot-driven
+faucet and manipulation of an already-legitimate one. It's easy for a
+faucet/sink audit to miss for exactly that reason: it's currency the
+books never expected to see, not a legitimate channel running too fast.
+A worked intervention, consistent with Week 8's argument that enforcement
+rather than a new sink is the fix: report bot-suspected currency
+separately from human-sourced faucets in that audit, at the cost of the
+false positives (legitimately fast human players) that any automated
+bot-detection heuristic will inevitably flag.
 
 ## What a strong intervention argument looks like
 
