@@ -15,6 +15,11 @@ spec:
 related:
   - sessions/12-capstone-pitch-rehearsal
   - assessments/capstone-economic-intervention-report
+links:
+  - label: "Tech is fine, l2p — EVE Online dev blog"
+    url: https://www.eveonline.com/news/view/tech-is-fine-l2p
+  - label: "Resource Rebalancing in Odyssey: Numbers! — EVE Online dev blog"
+    url: https://www.eveonline.com/news/view/resource-companion-blog
 ---
 
 No new theory this week. Every idea the Capstone needs --- faucets and sinks,
@@ -24,14 +29,22 @@ on in-progress interventions, worked through out loud, so everyone can see
 what a marker is actually going to look for. Two examples of the shape a
 strong one takes:
 
-**EVE Online, null-sec resource monopolies (Week 7's frontier logistics).**
-A single, sufficiently large alliance controlling enough null-sec territory
-can approach self-sufficiency in even the rarer moon-goo tiers, undercutting
-the multi-alliance dependency that scarcity was supposed to force. A
-worked intervention: widen the rarity ladder's clustering further, so no
-single contiguous territory --- however large --- covers every tier, at
-the cost of making an already logistics-heavy game even more dependent on
-long supply lines its designers already worried were tedious.
+**EVE Online, a null-sec resource monopoly that actually happened (Week 7's
+frontier logistics).** For years, the moon material Technetium --- a key
+Tech II production input --- was concentrated almost entirely in EVE
+Online's northern null-sec regions, letting the alliances holding that
+territory control a Tech II production chokepoint worth hundreds of
+billions of ISK a month simply by sitting on it. CCP's own dev blog named
+the problem directly: value and region had become too tightly coupled. The
+fix, delivered in the 2013 Odyssey resource rebalance, wasn't to break the
+monopoly by force --- it was to spread value across all four of the rarest
+moon-material tiers instead of concentrating it in one regionally-clustered
+mineral, so no single region (and by extension no single alliance holding
+it) could sit on the whole bottleneck alone. The cost: an already
+logistics-heavy game got another layer of chained intermediate materials
+to move around, in exchange for a scarcity ladder that finally matched
+Week 7's "no single alliance can go it alone" design intent instead of
+quietly undermining it.
 
 **World of Warcraft and OSRS, bot-driven illicit faucets (Week 8).**
 Automated farming injects currency that never came from a legitimate
