@@ -44,6 +44,22 @@ RuneScape's price band (Week 3) and EVE's fully transparent order book
 modes: the band against cornering, the transparency against information
 asymmetry.
 
+## A concrete adoption
+
+Old School RuneScape's Grand Exchange only runs one clearing rule --- an
+open, continuous order book --- for every trade regardless of size. It
+could instead route only its largest, one-off trades (a rare item worth
+hundreds of millions of gold, say) through a sealed-bid, second-price
+clearing option alongside the existing book: bidders on that specific item
+submit private bids once, the highest bidder wins, and pays the
+second-highest bid. That removes the incentive a big buyer currently has to
+shade a large order down for fear of moving the visible book against
+themselves. The tradeoff is real, though: the open book's whole value for
+everyday small trades is that the price is visible and the fill is
+instant, and a sealed-bid round sacrifices both --- bidders wait for the
+round to close, and nobody outside it can see what the item actually
+traded for until after the fact.
+
 ## Studio's over, but the question isn't
 
 There's no dedicated studio for this week --- it feeds straight into the
