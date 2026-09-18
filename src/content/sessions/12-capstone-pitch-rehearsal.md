@@ -29,7 +29,9 @@ Short, timed pitches to a small group of peers, followed by fast feedback
 focused on one question: would a marker who's read the whole semester's
 material find this specific and defensible?
 
-- 5 minutes: format and timing rules
+- 5 minutes: format and timing rules --- each pitch gets three minutes,
+  timed, covering the real economy, the specific problem, and the proposed
+  intervention
 - 40 minutes: pitches and feedback in groups of four
 - 10 minutes: whole-room debrief on common gaps
 
