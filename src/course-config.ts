@@ -47,11 +47,11 @@ export const slopCourseMetaSchema = z
 // provisioned, and no other course in the cohort has them. Change the first
 // digit to your course's level (and `level` to match); keep the other three.
 export const courseMeta = slopCourseMetaSchema.parse({
-  code: "SLOP3133",
+  code: "SLOP6133",
   title: "Spreadsheets at War: Designing Player-Run Economies",
   session: "Semester 1",
   year: 2027,
-  level: 3,
+  level: 6,
   startDate: "2027-02-22",
   endDate: "2027-05-28",
   description:
