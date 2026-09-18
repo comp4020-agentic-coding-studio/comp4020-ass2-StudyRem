@@ -25,6 +25,15 @@ above it, adjust the threshold slowly based on recent trades --- and the
 selling, and crashes that look uncannily like the real thing, without any
 single agent intending any of it.
 
+Three ingredients are enough, and none of them require anything you'd call
+intelligence: a strategy (the buy/sell rule above), a way to observe price
+(what "recent trades" the threshold adjusts against), and a budget --- each
+agent starts with a fixed stash of currency and stock, so its rule can only
+ever act on what it actually holds, not a hypothetical unlimited wallet.
+That budget constraint is what turns a simple rule into something that can
+run out of room to buy or sell, which is exactly the kind of pressure that
+produces a crash instead of a smooth line.
+
 ## Why this matters for a game economy specifically
 
 A live game economy already has thousands of real, if unpredictable, human
