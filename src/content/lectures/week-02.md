@@ -63,7 +63,8 @@ out.
   players it's actually priced to reach.
 - **respec and correction costs**: a tax on changing your mind, which is
   unpopular exactly because players notice it as a sink --- WoW's talent and
-  glyph respec fees exist for no other reason
+  glyph respec fees (paid to reassign a character's build) exist for no
+  other reason
 
 ## A second set, so the taxonomy above isn't the only evidence
 

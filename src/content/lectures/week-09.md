@@ -44,10 +44,12 @@ transparent market with no comparable sink would be far easier to corner
 permanently. RuneScape's opaque, lagging guide price does the opposite job:
 it trades transparency for manipulation resistance, at the cost of the
 "real" price sometimes being invisible to players who only check the guide
-number. WoW's split-then-unified realm history (faction-separated auction
-houses, later merged into region-wide commodities) shows a designer
-literally choosing market size as a lever --- a bigger, unified market is more
-liquid and harder to corner, at the cost of realm-level identity.
+number. WoW's split-then-unified realm history --- separate per-realm
+servers that also split each realm's auction house by faction (Horde and
+Alliance), later merged first across factions and then into shared,
+region-wide commodity listings --- shows a designer literally choosing
+market size as a lever: a bigger, unified market is more liquid and harder
+to corner, at the cost of realm- and faction-level identity.
 
 None of these are "the right answer". Each is the right answer to what that
 game's other systems already demand of it. Week 11 gives this idea --- that
