@@ -53,10 +53,35 @@ out.
 - **vanity and prestige**: cosmetics priced deliberately high, because the
   point is that most players *can't* afford them --- WoW sells gold-cost
   mounts and toys priced in the hundreds of thousands of gold for exactly
-  this reason
+  this reason. That's also exactly why it's a weak inflation control on
+  its own: it drains currency out of the wealthiest players' balances,
+  but the median player was never close to that price to begin with, so
+  their balance --- and the everyday prices they experience --- keeps
+  inflating right through a report that shows this sink absorbing
+  currency at a healthy rate. A sink only fights inflation for the
+  players it's actually priced to reach.
 - **respec and correction costs**: a tax on changing your mind, which is
   unpopular exactly because players notice it as a sink --- WoW's talent and
   glyph respec fees exist for no other reason
+
+## A second set, so the taxonomy above isn't the only evidence
+
+Three more faucets and three more sinks, none of them restating the
+categories above: EVE Online's incursion system pays out ISK from a
+shared bounty pool triggered by killing NPC fleet waves, a faucet
+mechanic distinct from a personal mission's bounty; Old School
+RuneScape's Thieving skill lets a trained character pickpocket coins
+directly from NPCs, a faucet gated by skill level rather than combat;
+and World of Warcraft's looted trash items, sold individually to any
+vendor after a dungeon run, inject gold with no quest or bounty
+structure at all. On the sink side: World of Warcraft's Auction House
+charges a deposit that's forfeited if the listed item doesn't sell,
+a different sink shape from a flat sales tax; character death outside
+a safe zone in Old School RuneScape can destroy or drop items the
+player then has to re-buy, a sink triggered by risk rather than a
+transaction; and EVE Online's null-sec alliances pay recurring ISK
+upkeep just to hold sovereignty over a system, a sink with no
+player-facing reward attached to it at all.
 
 ## The lever that matters
 
