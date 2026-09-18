@@ -40,10 +40,13 @@ a rarity ladder --- R4 through R64 --- where each tier roughly doubles in
 scarcity over the last, and the rarer tiers cluster unevenly across
 null-sec: statistically concentrated in particular regions rather than
 spread evenly system-by-system, with no hard per-region rule guaranteeing
-any of them. That means an alliance holding a large, materially rich
-stretch of null-sec still can't reliably produce top-tier components alone:
-it has to trade with, or fight, whoever's territory happens to carry the
-tier it's missing.
+any of them. Xenotime, the ore that refines into the R64-tier material
+Dysprosium, is one of the rarest of those moon materials and one of the
+inputs Tech II capital construction can't substitute away from --- its
+scattered, statistically-uneven placement is why a single alliance
+controlling a large stretch of null-sec still can't reliably produce
+top-tier components alone: it has to trade with, or fight, whoever's
+territory happens to carry the Xenotime moons it's missing.
 The scarcity isn't an accident of the map. It's the mechanism that turns
 null-sec resource control into a multi-alliance problem instead of a single
 empire's private supply closet.
