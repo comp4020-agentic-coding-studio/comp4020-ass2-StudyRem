@@ -31,6 +31,17 @@ ready to compete in, and it creates artificial scarcity at the low end, since
 only qualified players can supply that market. Both effects are deliberate,
 and they usually trade off against each other.
 
+That scarcity is itself a price, just denominated differently from
+time-gating's. Time-gating charges a fixed wait; skill-gating charges
+accumulated effort and practice --- whatever it actually took to clear the
+requirement --- before a player is allowed to transact in that market at
+all. Two players can pay the same currency price for an item and still not
+have equal access to *supply* it, because one of them hasn't yet paid the
+skill-gate's price in a different currency. That makes skill-gating a
+distinct pricing mechanism from time-gating, not a rebranding of it: one
+prices *waiting*, the other prices *competence*, and a design can impose
+either independently of the other.
+
 ## Time-gating and the paid skip
 
 Once a game sells any way to skip a time-gate for real money, the gate
