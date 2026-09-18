@@ -34,8 +34,8 @@ related:
 
 Week 8's lecture covered the Guiding Hand Social Club heist in EVE
 Online --- a real, decade-old incident where a ten-month espionage
-operation ended in the destruction of a player corporation's assets worth
-tens of billions of ISK, reported at the time as somewhere north of
+operation ended in the destruction of a player [corporation](/glossary/#corporation)'s assets worth
+tens of billions of [ISK](/glossary/#isk), reported at the time as somewhere north of
 $16,000 in real-world value. That's one option. Comparative Market
 Teardown (Week 9) will have had you dig into specific mechanics across
 EVE Online, World of Warcraft, and Old School RuneScape; you may use that
