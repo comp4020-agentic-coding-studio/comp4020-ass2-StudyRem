@@ -20,8 +20,27 @@ related:
 No new theory this week. Every idea the Capstone needs --- faucets and sinks,
 market design, cost-effectiveness ratios, time-gating, mechanism design ---
 was introduced somewhere in Weeks 1 through 11. This lecture spends its time
-on two or three in-progress interventions, worked through out loud, so
-everyone can see what a marker is actually going to look for.
+on in-progress interventions, worked through out loud, so everyone can see
+what a marker is actually going to look for. Two examples of the shape a
+strong one takes:
+
+**EVE Online, null-sec resource monopolies (Week 7's frontier logistics).**
+A single, sufficiently large alliance controlling enough null-sec territory
+can approach self-sufficiency in even the rarer moon-goo tiers, undercutting
+the multi-alliance dependency that scarcity was supposed to force. A
+worked intervention: widen the rarity ladder's clustering further, so no
+single contiguous territory --- however large --- covers every tier, at
+the cost of making an already logistics-heavy game even more dependent on
+long supply lines its designers already worried were tedious.
+
+**World of Warcraft and OSRS, bot-driven illicit faucets (Week 8).**
+Automated farming injects currency the legitimate faucet-tuning in Week 2
+never accounted for, quietly inflating the economy in a way that a
+Monthly-Economic-Report-style faucet/sink audit won't catch unless bot
+volume is broken out as its own line. A worked intervention: report bot-
+suspected currency separately from human-sourced faucets in that audit, at
+the cost of the false positives (legitimately fast human players) that any
+automated bot-detection heuristic will inevitably flag.
 
 ## What a strong intervention argument looks like
 
